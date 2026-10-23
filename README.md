@@ -12,13 +12,9 @@
 <img width="682" height="511" alt="image" src="https://github.com/user-attachments/assets/5a2cd8bf-9e18-4759-8344-52425b0a29a0" />
 </p>
 
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/pr3typrincess">
-    <img src="https://github.com/user-attachments/assets/e034b907-4144-4f08-926d-dba2e90d8651" width="110" height="80">
-  </a>
-  <a href="https://necbromancer.atabook.org/">
-    <img src="https://github.com/user-attachments/assets/763ecbf5-fe4e-4a2c-a3b6-a9bed39c27b1" width="110" height="80">
-  </a>
-</p>
+  [main](https://github.com/pr3typrincess)
+[ata](https://necbromancer.atabook.org/)
 
+</div>
